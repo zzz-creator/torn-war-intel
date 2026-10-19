@@ -7,6 +7,9 @@ on:
         description: 'Faction ID to fetch'
         required: false
         default: ''
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
