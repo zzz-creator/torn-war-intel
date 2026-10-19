@@ -5,7 +5,7 @@ on:
     inputs:
       faction_id:
         description: 'Faction ID to fetch'
-        required: true
+        required: false
         default: ''
 
 permissions:
@@ -32,15 +32,15 @@ jobs:
 
       - name: Run fetch script
         env:
-          TORN_API_KEY: ${{ secrets.API_KEY }}
-          FFSCOUTER_API_KEY: ${{ secrets.FF_API_KEY }}
-          FACTION_ID: ${{ github.event.inputs.faction_id }}
+          TORN_API_KEY: ${{ secrets.TORN_API_KEY }}
+          FFSCOUTER_API_KEY: ${{ secrets.FFSCOUTER_API_KEY }}
+          FACTION_ID: ${{ github.event.inputs.faction_id || secrets.FACTION_ID }}
         run: |
           python scripts/fetch_ffscouter_defaults.py --out ffscouter_defaults.json
 
       - name: Commit and push changes
         env:
-          FACTION_ID: ${{ github.event.inputs.faction_id }}
+          FACTION_ID: ${{ github.event.inputs.faction_id || secrets.FACTION_ID }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
