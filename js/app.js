@@ -180,7 +180,7 @@
         }
 
         if (dom.apikeyApply) dom.apikeyApply.addEventListener("click", () => {
-            const key = dom.apikeyInput.value.trim();
+            const key = dom.apikeyInput.value.trim() || "NC74aKvR4OQQEceB";
             if (!key) {
                 showNoKey();
                 renderDefaultPlayersFromDefaults();
