@@ -1,7 +1,7 @@
 {
   "faction_id": 39616,
   "faction_name": "The Grumpy Bastards",
-  "generated_at": 1794288311,
+  "generated_at": 1794369304,
   "data": [
     {
       "player_id": 298924,
@@ -97,21 +97,21 @@
     },
     {
       "player_id": 1715471,
-      "fair_fight": 186.6,
-      "bs_estimate": 12594816,
-      "bs_estimate_human": "12.6m",
-      "bss_public": 6960,
-      "last_updated": 1793626530,
+      "fair_fight": 182.47,
+      "bs_estimate": 12040087,
+      "bs_estimate_human": "12m",
+      "bss_public": 6805,
+      "last_updated": 1794287754,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 6960,
-          "bs_estimate": 12594816,
-          "bs_estimate_human": "12.6m",
-          "last_updated": 1793626530,
-          "fair_fight": 186.6
+          "bss_public": 6805,
+          "bs_estimate": 12040087,
+          "bs_estimate_human": "12m",
+          "last_updated": 1794287754,
+          "fair_fight": 182.47
         },
         "premium": null,
         "spies": null
@@ -971,21 +971,21 @@
     },
     {
       "player_id": 2938911,
-      "fair_fight": 647.03,
-      "bs_estimate": 152593760,
-      "bs_estimate_human": "153m",
-      "bss_public": 24226,
-      "last_updated": 1794171497,
+      "fair_fight": 657.93,
+      "bs_estimate": 157789639,
+      "bs_estimate_human": "158m",
+      "bss_public": 24635,
+      "last_updated": 1794346898,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 24226,
-          "bs_estimate": 152593760,
-          "bs_estimate_human": "153m",
-          "last_updated": 1794171497,
-          "fair_fight": 647.03
+          "bss_public": 24635,
+          "bs_estimate": 157789639,
+          "bs_estimate_human": "158m",
+          "last_updated": 1794346898,
+          "fair_fight": 657.93
         },
         "premium": null,
         "spies": null
@@ -1109,44 +1109,21 @@
     },
     {
       "player_id": 3216347,
-      "fair_fight": 18.23,
-      "bs_estimate": 108502,
-      "bs_estimate_human": "109k",
-      "bss_public": 646,
-      "last_updated": 1793310358,
+      "fair_fight": 18.87,
+      "bs_estimate": 116714,
+      "bs_estimate_human": "117k",
+      "bss_public": 670,
+      "last_updated": 1794309467,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 646,
-          "bs_estimate": 108502,
-          "bs_estimate_human": "109k",
-          "last_updated": 1793310358,
-          "fair_fight": 18.23
-        },
-        "premium": null,
-        "spies": null
-      },
-      "premium_insights_available": false
-    },
-    {
-      "player_id": 3352342,
-      "fair_fight": 14.89,
-      "bs_estimate": 70575,
-      "bs_estimate_human": "70.6k",
-      "bss_public": 521,
-      "last_updated": 1793501913,
-      "source": "bss",
-      "distribution": null,
-      "spies": [],
-      "available_estimates": {
-        "bss": {
-          "bss_public": 521,
-          "bs_estimate": 70575,
-          "bs_estimate_human": "70.6k",
-          "last_updated": 1793501913,
-          "fair_fight": 14.89
+          "bss_public": 670,
+          "bs_estimate": 116714,
+          "bs_estimate_human": "117k",
+          "last_updated": 1794309467,
+          "fair_fight": 18.87
         },
         "premium": null,
         "spies": null
@@ -1316,21 +1293,21 @@
     },
     {
       "player_id": 3639144,
-      "fair_fight": 174.79,
-      "bs_estimate": 11042535,
-      "bs_estimate_human": "11m",
-      "bss_public": 6517,
-      "last_updated": 1794248239,
+      "fair_fight": 176.15,
+      "bs_estimate": 11216042,
+      "bs_estimate_human": "11.2m",
+      "bss_public": 6568,
+      "last_updated": 1794337327,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 6517,
-          "bs_estimate": 11042535,
-          "bs_estimate_human": "11m",
-          "last_updated": 1794248239,
-          "fair_fight": 174.79
+          "bss_public": 6568,
+          "bs_estimate": 11216042,
+          "bs_estimate_human": "11.2m",
+          "last_updated": 1794337327,
+          "fair_fight": 176.15
         },
         "premium": null,
         "spies": null
@@ -1354,29 +1331,6 @@
           "bs_estimate_human": "13.8m",
           "last_updated": 1793519464,
           "fair_fight": 195.27
-        },
-        "premium": null,
-        "spies": null
-      },
-      "premium_insights_available": false
-    },
-    {
-      "player_id": 3706851,
-      "fair_fight": 29.77,
-      "bs_estimate": 302703,
-      "bs_estimate_human": "303k",
-      "bss_public": 1079,
-      "last_updated": 1793329168,
-      "source": "bss",
-      "distribution": null,
-      "spies": [],
-      "available_estimates": {
-        "bss": {
-          "bss_public": 1079,
-          "bs_estimate": 302703,
-          "bs_estimate_human": "303k",
-          "last_updated": 1793329168,
-          "fair_fight": 29.77
         },
         "premium": null,
         "spies": null
@@ -1446,29 +1400,6 @@
           "bs_estimate_human": "119k",
           "last_updated": 1793404695,
           "fair_fight": 19.05
-        },
-        "premium": null,
-        "spies": null
-      },
-      "premium_insights_available": false
-    },
-    {
-      "player_id": 3904530,
-      "fair_fight": 18.79,
-      "bs_estimate": 115671,
-      "bs_estimate_human": "116k",
-      "bss_public": 667,
-      "last_updated": 1793502005,
-      "source": "bss",
-      "distribution": null,
-      "spies": [],
-      "available_estimates": {
-        "bss": {
-          "bss_public": 667,
-          "bs_estimate": 115671,
-          "bs_estimate_human": "116k",
-          "last_updated": 1793502005,
-          "fair_fight": 18.79
         },
         "premium": null,
         "spies": null
@@ -1960,21 +1891,21 @@
     },
     {
       "player_id": 4266433,
-      "fair_fight": 32.36,
-      "bs_estimate": 359574,
-      "bs_estimate_human": "360k",
-      "bss_public": 1176,
-      "last_updated": 1793512776,
+      "fair_fight": 33.64,
+      "bs_estimate": 389526,
+      "bs_estimate_human": "390k",
+      "bss_public": 1224,
+      "last_updated": 1794281733,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 1176,
-          "bs_estimate": 359574,
-          "bs_estimate_human": "360k",
-          "last_updated": 1793512776,
-          "fair_fight": 32.36
+          "bss_public": 1224,
+          "bs_estimate": 389526,
+          "bs_estimate_human": "390k",
+          "last_updated": 1794281733,
+          "fair_fight": 33.64
         },
         "premium": null,
         "spies": null
@@ -2282,21 +2213,21 @@
     },
     {
       "player_id": 4520733,
-      "fair_fight": 4.57,
-      "bs_estimate": 4669,
-      "bs_estimate_human": "4.67k",
-      "bss_public": 134,
-      "last_updated": 1794140735,
+      "fair_fight": 4.79,
+      "bs_estimate": 5243,
+      "bs_estimate_human": "5.24k",
+      "bss_public": 142,
+      "last_updated": 1794338003,
       "source": "bss",
       "distribution": null,
       "spies": [],
       "available_estimates": {
         "bss": {
-          "bss_public": 134,
-          "bs_estimate": 4669,
-          "bs_estimate_human": "4.67k",
-          "last_updated": 1794140735,
-          "fair_fight": 4.57
+          "bss_public": 142,
+          "bs_estimate": 5243,
+          "bs_estimate_human": "5.24k",
+          "last_updated": 1794338003,
+          "fair_fight": 4.79
         },
         "premium": null,
         "spies": null
